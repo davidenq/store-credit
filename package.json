@@ -1,0 +1,30 @@
+{
+  "name" : "store-credits",
+  "version" : "0.0.1",
+  "description" : "Solución al problema planteado por Google Code Jam y las rondas de clasificación Africa 2010",
+  "keywords" : [ "Google Code Jam", "Store Credits" ],
+  "engine" : {
+    "node" : ">=0.10.*"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/davidenq/store-credit"
+  },
+  "bugs" : {
+    "url" : "https://github.com/davidenq/store-credit/issues"
+  },
+  "author" : {
+    "name" : "David Núñez",
+    "email" : "davip@live.com",
+    "url" : "www.davidenq.com"
+  },
+  "license" : {
+    "type" : "MIT"
+  },
+  "maintainers" : {
+    "name" : "David Núñez",
+    "email" : "davip@live.com"
+  },
+  "main" : "index.js",
+  "readmeFilename": "README.md"
+}
